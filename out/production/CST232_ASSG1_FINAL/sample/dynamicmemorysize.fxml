@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="800.0" prefWidth="1500.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Dynamicmemorysize">
+   <children>
+      <Pane layoutX="10.0" layoutY="10.0" prefHeight="800.0" prefWidth="1500.0" style="-fx-background-color: black;">
+         <children>
+            <Pane layoutX="200.0" layoutY="100.0" prefHeight="600.0" prefWidth="1100.0" style="-fx-background-color: #778899;">
+               <children>
+                  <Button layoutX="210.0" layoutY="211.0" mnemonicParsing="false" onAction="#toevent2" prefHeight="113.0" prefWidth="282.0" style="-fx-border-color: white; -fx-border-radius: 20; -fx-background-radius: 20; -fx-background-color: #87CEFA;" text="20000">
+                     <font>
+                        <Font size="36.0" />
+                     </font>
+                  </Button>
+                  <Separator layoutX="152.0" layoutY="168.0" opacity="0.25" prefHeight="6.0" prefWidth="833.0" />
+                  <Separator layoutX="135.0" layoutY="519.0" opacity="0.25" prefHeight="12.0" prefWidth="833.0" />
+                  <Button layoutX="603.0" layoutY="364.0" mnemonicParsing="false" onAction="#toevent5" prefHeight="113.0" prefWidth="282.0" style="-fx-border-color: white; -fx-border-radius: 20; -fx-background-radius: 20; -fx-background-color: #87CEFA;" text="50000">
+                     <font>
+                        <Font size="36.0" />
+                     </font>
+                  </Button>
+                  <Button layoutX="603.0" layoutY="211.0" mnemonicParsing="false" onAction="#toevent3" prefHeight="113.0" prefWidth="282.0" style="-fx-border-color: white; -fx-border-radius: 20; -fx-background-radius: 20; -fx-background-color: #87CEFA;" text="30000">
+                     <font>
+                        <Font size="36.0" />
+                     </font>
+                  </Button>
+                  <Button layoutX="803.0" layoutY="540.0" mnemonicParsing="false" onAction="#tomainmenu" prefHeight="46.0" prefWidth="165.0" style="-fx-border-color: white; -fx-border-radius: 20; -fx-background-radius: 20; -fx-background-color: #87CEFA;" text="MAIN MENU">
+                     <font>
+                        <Font size="20.0" />
+                     </font>
+                  </Button>
+                  <Button layoutX="210.0" layoutY="364.0" mnemonicParsing="false" onAction="#toevent4" prefHeight="113.0" prefWidth="282.0" style="-fx-border-color: white; -fx-border-radius: 20; -fx-background-radius: 20; -fx-background-color: #87CEFA;" text="40000">
+                     <font>
+                        <Font size="36.0" />
+                     </font>
+                  </Button>
+                  <Label layoutX="80.0" layoutY="14.0" prefHeight="99.0" prefWidth="978.0" text="MEMORY ALLOCATION SIMULATOR">
+                     <font>
+                        <Font name="Berlin Sans FB" size="62.0" />
+                     </font>
+                  </Label>
+                  <Label layoutX="316.0" layoutY="87.0" prefHeight="99.0" prefWidth="505.0" text="SELECT NUMBER OF MEMORY LOCATIONS">
+                     <font>
+                        <Font size="26.0" />
+                     </font>
+                  </Label>
+               </children>
+            </Pane>
+         </children>
+      </Pane>
+   </children>
+</AnchorPane>

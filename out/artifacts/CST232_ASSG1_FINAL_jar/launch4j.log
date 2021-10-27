@@ -1,0 +1,92 @@
+
+
+Version:	3.12
+CmdLine:	C:\Users\User\IdeaProjects\CST232_ASSG1_FINAL\out\artifacts\CST232_ASSG1_FINAL_jar\CST232_ASSG1_FINAL.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\User\IdeaProjects\CST232_ASSG1_FINAL\out\artifacts\CST232_ASSG1_FINAL_jar\.
+Java min ver:	1.011.000_000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_271
+Ignore:		1.008.000_271
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\11.0.2
+Check launcher:	C:\Program Files\Java\jdk-11.0.2\bin\javaw.exe (OK)
+Match:		1.011.000_002
+Check:		SOFTWARE\JavaSoft\JDK\15.0.1
+Check launcher:	C:\Program Files\Java\jdk-15.0.1\bin\javaw.exe (OK)
+Match:		1.015.000_001
+Runtime used:	1.015.000_001 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-15.0.1\bin\javaw.exe
+Launcher args:	--module-path ".\javafx-sdk-11.0.2\lib" --add-modules=javafx.controls,javafx.fxml -jar "C:\Users\User\IdeaProjects\CST232_ASSG1_FINAL\out\artifacts\CST232_ASSG1_FINAL_jar\CST232_ASSG1_FINAL.exe"
+Args length:	194/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	D:\OneDrive - Universiti Sains Malaysia\ACADEMICS\YEAR 2\CST232\CST232 ASSG1\CST232_ASSG1_FINAL XS\out\artifacts\CST232_ASSG1_FINAL_jar\CST232_ASSG1_FINAL.exe --l4j-debug
+WOW64:		yes
+Working dir:	D:\OneDrive - Universiti Sains Malaysia\ACADEMICS\YEAR 2\CST232\CST232 ASSG1\CST232_ASSG1_FINAL XS\out\artifacts\CST232_ASSG1_FINAL_jar\.
+Java min ver:	1.011.000_000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_271
+Ignore:		1.008.000_271
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_271
+Ignore:		1.008.000_271
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\11.0.2
+Check launcher:	C:\Program Files\Java\jdk-11.0.2\bin\javaw.exe (OK)
+Match:		1.011.000_002
+Check:		SOFTWARE\JavaSoft\JDK\15.0.1
+Check launcher:	C:\Program Files\Java\jdk-15.0.1\bin\javaw.exe (OK)
+Match:		1.015.000_001
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+Runtime used:	1.015.000_001 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-15.0.1\bin\javaw.exe
+Launcher args:	--module-path ".\javafx-sdk-11.0.2\lib" --add-modules=javafx.controls,javafx.fxml -jar "D:\OneDrive - Universiti Sains Malaysia\ACADEMICS\YEAR 2\CST232\CST232 ASSG1\CST232_ASSG1_FINAL XS\out\artifacts\CST232_ASSG1_FINAL_jar\CST232_ASSG1_FINAL.exe"
+Args length:	247/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	D:\OneDrive - Universiti Sains Malaysia\ACADEMICS\YEAR 2\CST232\CST232 ASSG1\CST232_ASSG1_FINAL XS\out\artifacts\CST232_ASSG1_FINAL_jar\CST232_ASSG1_FINAL.exe --l4j-debug
+WOW64:		yes
+Working dir:	D:\OneDrive - Universiti Sains Malaysia\ACADEMICS\YEAR 2\CST232\CST232 ASSG1\CST232_ASSG1_FINAL XS\out\artifacts\CST232_ASSG1_FINAL_jar\.
+Java min ver:	1.011.000_000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_271
+Ignore:		1.008.000_271
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_271
+Ignore:		1.008.000_271
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\11.0.2
+Check launcher:	C:\Program Files\Java\jdk-11.0.2\bin\javaw.exe (OK)
+Match:		1.011.000_002
+Check:		SOFTWARE\JavaSoft\JDK\15.0.1
+Check launcher:	C:\Program Files\Java\jdk-15.0.1\bin\javaw.exe (OK)
+Match:		1.015.000_001
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+Runtime used:	1.015.000_001 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-15.0.1\bin\javaw.exe
+Launcher args:	--module-path ".\javafx-sdk-11.0.2\lib" --add-modules=javafx.controls,javafx.fxml -jar "D:\OneDrive - Universiti Sains Malaysia\ACADEMICS\YEAR 2\CST232\CST232 ASSG1\CST232_ASSG1_FINAL XS\out\artifacts\CST232_ASSG1_FINAL_jar\CST232_ASSG1_FINAL.exe"
+Args length:	247/32768 chars
+Exit code:	0
